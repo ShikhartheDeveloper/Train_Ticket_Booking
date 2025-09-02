@@ -85,9 +85,12 @@ Travel Date & Time
 Coach Type
 Total Fare
 
-<img width="981" height="789" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/b74e4044-ae52-485e-b928-acdbcbaabe3b" />
+## 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/50ba4ddd-63c3-4dfe-8531-4df3eaa8283c" />
+![Booking Form](https://github.com/user-attachments/assets/b74e4044-ae52-485e-b928-acdbcbaabe3b)
+
+![Booking Confirmation](https://github.com/user-attachments/assets/50ba4ddd-63c3-4dfe-8531-4df3eaa8283c)
+
 
 
 
