@@ -51,3 +51,43 @@ This project demonstrates **clean architecture, DTO usage, service-layer abstrac
 ```bash
 git clone https://github.com/yourusername/train-ticket-booking.git
 cd train-ticket-booking
+
+
+
+
+📝 Example JSONs
+✅ Request (Booking)
+POST /api/bookings/create/ticket
+{
+  "customerId": 1,
+  "routeId": 101,
+  "coachId": 5,
+  "travelDate": "2025-09-10",
+  "travelTime": "08:30:00"
+}
+
+✅ Response
+{
+  "message": "Ticket booked successfully!",
+  "pnrNumber": "PNR1693657381287",
+  "travelDate": "2025-09-10",
+  "travelTime": "08:30:00"
+}
+
+📄 Sample PDF Ticket
+
+The generated PDF includes:
+
+PNR Number
+Passenger Name
+Departure → Arrival
+Travel Date & Time
+Coach Type
+Total Fare
+
+<img width="981" height="789" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/b74e4044-ae52-485e-b928-acdbcbaabe3b" />
+
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/50ba4ddd-63c3-4dfe-8531-4df3eaa8283c" />
+
+
+
